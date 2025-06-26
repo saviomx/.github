@@ -1,8 +1,15 @@
-# **Savio**
+<p align="center" width="100%">
+  <img width="33%" src="https://github.com/user-attachments/assets/8afc8226-663a-45eb-8925-809dc21a5ba5">
+</p>
+
+---
+## **Sobre nosotros**
 
 Savio transforma la forma en que las empresas gestionan la facturación, cobranza y conciliación de pagos. Nuestra plataforma utiliza tecnologías avanzadas y automatización impulsada por inteligencia artificial para optimizar estos procesos, ayudando a las empresas a ahorrar tiempo, reducir errores y mejorar su flujo de efectivo.
 
 ![67cbb40c3378ee58adb148aa_savio-1-_1_](https://github.com/user-attachments/assets/cafa356e-d5fa-4738-9dc4-93d1a5e8b26c)
+
+---
 
 ## 🔧 Funciones Clave de Savio
 
@@ -23,6 +30,8 @@ Savio transforma la forma en que las empresas gestionan la facturación, cobranz
 - **Informes Detallados**: Accede a información financiera precisa y en tiempo real con reportes personalizables.
 - **Visibilidad Financiera**: Mantén una visión clara de tu flujo de caja, cuentas por cobrar y por pagar, todo en un solo lugar.
 
+---
+
 ## 🏢 Sectores que Utilizan Savio
 
 Savio es la solución ideal para empresas de todos los tamaños y sectores, especialmente aquellas que buscan optimizar sus procesos financieros.
@@ -36,6 +45,8 @@ Savio es la solución ideal para empresas de todos los tamaños y sectores, espe
 ### Tamaños de Empresa
 - **Enterprise**: Soluciones a gran escala para corporaciones que requieren un control financiero avanzado.
 - **Startups**: Herramientas accesibles y flexibles para empresas en crecimiento.
+
+---
 
 ## 📈 ¿Por Qué Elegir Savio?
 
